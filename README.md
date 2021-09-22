@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✨👩‍🎨I'm obsessed with Computer Graphics and I'm learning to build a beautiful virtual world in the computer!🖌✨
+
 <!--
 **Zydiii/Zydiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![info](https://github-readme-stats.vercel.app/api?username=Zydiii&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Zydiii.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=Zydiii&show_icons=true&count_private=true&hide=prs&theme=material-palenight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zydiii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zydiii)](https://github.com/anuraghazra/github-readme-stats)
