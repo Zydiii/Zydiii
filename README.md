@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Zydiii.readme)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zydiii&layout=compact)](https://github.com/Zydiii/github-readme-stats)
-
 ![info](https://github-readme-stats.vercel.app/api?username=Zydiii&show_icons=true&count_private=true&hide=prs&theme=buefy)
